@@ -1,7 +1,7 @@
 # movie_website
 movie_website for Udacity Full Stack Developer course
 
-**To download files look in the upper right hand corner where it says:
+** To download files look in the upper right hand corner where it says: **
 > Clone or download
 1. Click on it and chose download zip
 2. Unzip file  
